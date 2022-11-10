@@ -4,6 +4,6 @@
 
 <p>Esse repositório contém projetos pessoais sobre coleta de dados.</p>
 <p>A linguagem utilizado é Python.</p>
-<p>E tenho como objetivo demonstrar meus conhecimentos de cientista de dados</p>
+<p>E tem como objetivo demonstrar meus conhecimentos de cientista de dados</p>
 
 :)
